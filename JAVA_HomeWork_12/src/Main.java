@@ -8,7 +8,7 @@ public class Main {
                 LoggingLevel.DEBUG,
                 150,
                 "[%TIME%][%LEVEL%] Повідомлення: %MESSAGE%"
-        );git
+        );
 
 
         Logger logger = new FileLogger(config);
