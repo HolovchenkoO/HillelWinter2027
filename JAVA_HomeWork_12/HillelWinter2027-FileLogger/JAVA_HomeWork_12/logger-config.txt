@@ -1,0 +1,4 @@
+FILE: logs/Log.txt
+LEVEL: DEBUG
+MAX-SIZE: 500
+FORMAT: [{time}][{level}] Повідомлення: {message}

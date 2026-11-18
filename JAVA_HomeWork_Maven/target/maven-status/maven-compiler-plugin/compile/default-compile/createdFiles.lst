@@ -1,0 +1,8 @@
+filesLoggers\FileMaxSizeReachedException.class
+filesLoggers\FileLogger.class
+org\example\Main.class
+mathLibrary\MathOperations.class
+filesLoggers\FileLoggerConfiguration.class
+filesLoggers\LoggingLevel.class
+filesLoggers\FileLoggerConfigurationLoader.class
+filesLoggers\Logger.class
